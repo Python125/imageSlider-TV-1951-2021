@@ -1,1 +1,1 @@
-# imageSliderTV (1951-2021)
+# imageSlider-TV (1951-2021)
